@@ -5,18 +5,29 @@ This project analyzes an Amazon product dataset to uncover insights about produc
 This project was completed during my internship at NTI, and I’m excited to share it as part of my portfolio to showcase my data analysis skills.
 
 # Dataset
+
 Source: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+
 The dataset contains information about 1,465 products, including:
 
 Product ID
+
 Product Name
+
 Category
+
 Discounted Price
+
 Actual Price
+
 Discount Percentage
+
 Rating
+
 Rating Count
+
 About Product
+
 User Reviews
 
 # Steps Performed
@@ -59,9 +70,13 @@ Products in this range also had the highest number of reviews, indicating high c
 
 # Tools Used
 Python
+
 Pandas (Data Cleaning & Manipulation)
+
 NumPy (Numerical Operations)
+
 Matplotlib & Seaborn (Data Visualization)
+
 Jupyter Notebook (Interactive Coding Environment)
 
 # Acknowledgments
@@ -71,5 +86,7 @@ A huge thank you to my instructor at NTI for their guidance and support througho
 If you have any questions or would like to discuss this project, feel free to reach out to me:
 
 Email: ramdankhaled09@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/khaled-ramadan-143610232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 My Portfolio: https://khaled-ramadan-data-anal-qojoi5x.gamma.site/
